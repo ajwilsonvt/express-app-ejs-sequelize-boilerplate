@@ -1,4 +1,4 @@
-# express-app-layout-sequelize-boilerplate
+# express-app-ejs-sequelize-boilerplate
 
 ## getting started
 
